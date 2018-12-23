@@ -12,6 +12,7 @@
 		4C59F86B21CF13B3008B1924 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C59F86921CF13B3008B1924 /* Main.storyboard */; };
 		4C59F86D21CF13B4008B1924 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C59F86C21CF13B4008B1924 /* Assets.xcassets */; };
 		4C59F87021CF13B4008B1924 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C59F86E21CF13B4008B1924 /* LaunchScreen.storyboard */; };
+		4C59F87821CF1CAB008B1924 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4C59F87721CF1CAB008B1924 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4C59F86C21CF13B4008B1924 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C59F86F21CF13B4008B1924 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C59F87121CF13B4008B1924 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C59F87721CF1CAB008B1924 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		4C59F86421CF13B3008B1924 /* Husle Mode */ = {
 			isa = PBXGroup;
 			children = (
+				4C59F87721CF1CAB008B1924 /* hustle-on.wav */,
 				4C59F86521CF13B3008B1924 /* AppDelegate.swift */,
 				4C59F86721CF13B3008B1924 /* ViewController.swift */,
 				4C59F86921CF13B3008B1924 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C59F87821CF1CAB008B1924 /* hustle-on.wav in Resources */,
 				4C59F87021CF13B4008B1924 /* LaunchScreen.storyboard in Resources */,
 				4C59F86D21CF13B4008B1924 /* Assets.xcassets in Resources */,
 				4C59F86B21CF13B3008B1924 /* Main.storyboard in Resources */,
